@@ -28,9 +28,9 @@ const styles = StyleSheet.create({
         fontWeight: 'bold',
     },
     headerTitle: {
-        marginBottom: 8,
-        fontSize: 22,
-        lineHeight: 32,
+        marginBottom: 10,
+        fontSize: 24,
+        lineHeight: 36,
         fontWeight: 'bold',
         color: '#ffffff'
     },
