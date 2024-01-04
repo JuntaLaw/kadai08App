@@ -35,7 +35,7 @@ const styles = StyleSheet.create({
         lineHeight: 32,
     },
     memoListDate: {
-        fontSize: 12,
+        fontSize: 14,
         lineHeight: 16,
         color: '#848484',
     }
